@@ -1,40 +1,53 @@
-# Startup Playbook - De la Idea al Producto
+# Startup Playbook — Dev Solopreneur
 
-Guia practica y accionable para levantar una startup desde cero. Cada seccion incluye frameworks, plantillas, y estrategias con AI para acelerar cada fase.
+Guia para developers que quieren lanzar productos propios. Filosofia: construir rapido, lanzar, validar con dinero real, iterar o pivotar.
+
+Tu ventaja competitiva: puedes construir producto. La mayoria de founders no pueden.
+Tu loop: idea viernes → producto domingo → lanzado lunes.
 
 ## Indice
 
-| Fase | Tema | Descripcion |
-|------|------|-------------|
-| 0 | [Psicologia del Founder](./00-psicologia-del-founder/) | La trampa del builder, procrastinacion, motivacion, co-founder timing |
-| 1 | [Ideacion y Definicion de Producto](./01-ideacion/) | Encontrar problemas reales, definir tu propuesta de valor |
-| 2 | [Validacion](./02-validacion/) | Validar antes de construir: experimentos, entrevistas, MVP |
-| 3 | [AI como Acelerador](./03-ai-como-acelerador/) | Usar AI en cada fase para ir 10x mas rapido |
-| 4 | [Equipo y Colaboradores](./04-equipo-y-colaboradores/) | Encontrar cofounders, primeros empleados, freelancers |
-| 5 | [Pactos y Acuerdos Legales](./05-pactos-y-acuerdos/) | Equity, vesting, pacto de socios, propiedad intelectual |
-| 6 | [Go-to-Market](./06-go-to-market/) | Primeros usuarios, canales, pricing, lanzamiento |
-| 7 | [Financiacion](./07-financiacion/) | Bootstrapping, pre-seed, seed, investors, grants |
-| 8 | [Operaciones y Escalado](./08-operaciones/) | Metricas, procesos, cultura, cuando escalar |
-| 9 | [Tooling y Stack](./09-tooling-y-stack/) | Stack completo para lanzar un SaaS en un finde por ~$300 |
-| 10 | [Ecosistema Indie](./10-ecosistema-indie/) | A quien seguir, donde aprender, comunidades, libros, podcasts |
+| # | Seccion | Que resuelve |
+|---|---------|-------------|
+| 1 | [Mentalidad](./01-mentalidad/) | Deja de planificar, empieza a lanzar |
+| 2 | [Idea](./02-idea/) | Encuentra problemas que TU tienes |
+| 3 | [Build](./03-build/) | MVP en un finde con Supastarter + Claude Code |
+| 4 | [Launch](./04-launch/) | Product Hunt, Hacker News, Twitter — $0 en marketing |
+| 5 | [Grow](./05-grow/) | SEO, build in public, contenido organico |
+| 6 | [Scale](./06-scale/) | Cuando y como escalar (co-founder, inversion, ads) — opcional |
+| 7 | [Stack y Herramientas](./07-stack/) | Todo el tooling por ~$300 + free tiers |
+| 8 | [Ecosistema](./08-ecosistema/) | A quien seguir, donde aprender, como entrar |
 
-**[CHECKLIST.md](./CHECKLIST.md)** — Resumen de todos los pasos en un solo fichero con checkboxes
+**[CHECKLIST.md](./CHECKLIST.md)** — Todos los pasos en checkboxes
 
-## Como usar esta guia
+## El proceso
 
-1. **Si no arrancas / procrastinas** -> Lee [00-Psicologia](./00-psicologia-del-founder/) primero
-2. **Si tienes una idea** -> Lee [Metodologias](./02-validacion/metodologias.md) para decidir si lanzar directo o hablar primero
-3. **Si ya tienes producto** -> Salta a [02-Validacion](./02-validacion/) para validar traccion
-4. **Si necesitas hablar con gente** -> Lee el [Outreach Framework](./02-validacion/outreach-framework.md)
-5. **Si quieres montar el stack tecnico** -> Ve a [09-Tooling y Stack](./09-tooling-y-stack/)
-6. **Si quieres entrar en la comunidad** -> Lee [10-Ecosistema Indie](./10-ecosistema-indie/)
-7. **Si buscas equipo** -> Ve directo a [04-Equipo](./04-equipo-y-colaboradores/)
-8. **Si necesitas pasta** -> Revisa [07-Financiacion](./07-financiacion/)
+```
+1. Detecta un problema que TU tienes
+2. Construyelo en un finde (Supastarter + Claude Code)
+3. Lanza en Product Hunt / HN / Twitter
+4. ¿La gente paga?
+   ├── SI → Sigue iterando, crece organico
+   └── NO → Siguiente idea, siguiente finde
+```
 
-## Principios fundamentales
+## Principios
 
-- **Velocidad > Perfeccion**: Mejor lanzar algo imperfecto hoy que algo perfecto nunca
-- **Habla con usuarios**: Ninguna cantidad de AI reemplaza hablar con personas reales
-- **Mide todo**: Si no lo mides, no lo puedes mejorar
-- **Cash is king**: Controla tu runway obsesivamente
-- **Build in public**: La transparencia genera confianza y comunidad
+- **Lanza antes de estar listo** — tu MVP perfecto es el producto imperfecto de hoy
+- **El mercado valida, no las conversaciones** — si pagan, funciona. Si no, next
+- **$0 en marketing** — build in public + SEO + lanzamientos organicos
+- **Solo hasta que no puedas solo** — no busques co-founder ni inversion hasta que tengas revenue
+- **Un finde, una idea** — no te encariñes. El coste de probar es un fin de semana
+
+## Referentes
+
+| Quien | Que ha hecho | Leccion |
+|-------|-------------|---------|
+| **Pieter Levels** | Nomad List, PhotoAI — $3M+/año solo | 70+ productos lanzados, la mayoria fracasaron. Persistencia |
+| **Marc Lou** | Shipfast — ~$80k/mes | Lanza un SaaS al mes, documenta todo en YouTube |
+| **Tony Dinh** | TypingMind — ~$50k/mes | Dev solo, producto simple, SEO + PH |
+
+## Libros (solo 2 necesarios)
+
+1. **[MAKE](https://readmake.com)** — Pieter Levels. El playbook completo
+2. **[The Mom Test](https://momtestbook.com)** — Rob Fitzpatrick. Para cuando quieras hablar con usuarios (opcional al principio)

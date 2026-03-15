@@ -1,90 +1,75 @@
-# Checklist: De 0 a Startup
+# Checklist: De 0 a Revenue
 
-## Fase 0: Mentalidad y setup
+## Antes de empezar
 
-- [ ] Tengo un problema concreto que me fastidia / obsesiona (no una categoria de mercado)
-- [ ] Puedo describir el problema en 1 frase sin mencionar la solucion
-- [ ] He leido The Mom Test (Rob Fitzpatrick) — 2-3 horas
-- [ ] Tengo 12-18 meses de runway personal calculado
-- [ ] He definido mi primer sprint semanal con entregable concreto y binario
+- [ ] Tengo Supastarter comprado y configurado
+- [ ] Tengo cuentas en: Vercel, Neon, Stripe, Resend
+- [ ] Sigo a @levelsio, @marc_louvion en Twitter
+- [ ] He leido MAKE de Pieter Levels (o al menos el resumen)
 
-## Fase 1: Discovery (Semana 1-2)
+## Cada nueva idea (un finde)
 
-- [ ] Lista de 30 perfiles en LinkedIn que podrian tener el problema
-- [ ] Mensaje de outreach redactado (sin vender, sin Calendly, pidiendo 20 min)
-- [ ] Enviados los primeros 10 DMs
-- [ ] Enviados los siguientes 10-20 DMs
-- [ ] 5-10 calls confirmadas y agendadas
-- [ ] Calls realizadas y documentadas (problema, dolor 1-10, solucion actual, citas literales)
-- [ ] Analisis de patron: 7/10 describen el mismo dolor? Si -> seguir. No -> pivotar segmento
+### Viernes: Idea
 
-## Fase 2: Validacion de solucion (Semana 3-4)
+- [ ] Tengo un problema propio que me frustra
+- [ ] Puedo describirlo en una frase sin mencionar la solucion
+- [ ] He buscado competencia: existe algo? que le falta?
+- [ ] Puedo construir un MVP este finde? Si no, simplifica el scope
 
-- [ ] Wireframe / Figma / descripcion escrita de como funcionaria la solucion
-- [ ] Ensenar a las mismas personas de las calls
-- [ ] Pregunta directa: "pagarias por esto?" (no "te parece util?")
-- [ ] 2-3 personas dicen si o piden que les avise cuando este listo
-- [ ] Tengo lenguaje real: como describen el problema, que palabras usan, que les duele mas
+### Sabado-Domingo: Build
 
-## Fase 3: MVP (Semana 5-8)
+- [ ] Fork de Supastarter
+- [ ] Core feature implementada (la UNA cosa que resuelve el problema)
+- [ ] Landing page con copy claro: problema → solucion → CTA
+- [ ] Stripe conectado (cobra desde el dia 1)
+- [ ] Deploy en Vercel
+- [ ] Dominio conectado (o usa .vercel.app para validar)
 
-- [ ] Scope definido: solo la feature que resuelve el dolor principal
-- [ ] MVP construido (el minimo que le entrego a esas personas concretas)
-- [ ] Primeros 2-3 usuarios reales usando el producto
-- [ ] Feedback recogido de primeros usuarios
-- [ ] Iteracion basada en feedback real (no en suposiciones)
+### Lunes: Launch
 
-## Fase 4: Primeros clientes (Semana 8-12)
+- [ ] Post en Product Hunt (preparar assets el domingo noche)
+- [ ] Post en Hacker News (Show HN)
+- [ ] Tweet/thread contando que has construido y por que
+- [ ] Post en Indie Hackers
+- [ ] Post en comunidades relevantes del nicho (Reddit, Discord)
 
-- [ ] Cobrar: al menos 1 persona ha pagado (aunque sea poco)
-- [ ] Onboarding personal 1:1 con cada usuario
-- [ ] Followup a 24h, 72h, y 1 semana
-- [ ] Pedir referidos: "conoces a alguien mas con este problema?"
-- [ ] Documentar: que funciona, que no, por que se quedan / se van
+### Semana 1-2: Medir
 
-## Fase 5: Distribucion (Semana 12+)
+- [ ] Cuantos signups? (>50 es buena senal)
+- [ ] Alguien ha pagado? (1 pago = validacion)
+- [ ] Feedback recibido? La gente pide features?
+- [ ] La gente vuelve a usar el producto?
 
-- [ ] Landing page con copy basado en lenguaje real de usuarios (no lo que tu crees)
-- [ ] CTA claro: signup, waitlist, o demo call
-- [ ] Analytics configurado (Plausible / Umami / PostHog)
-- [ ] 1-2 canales de distribucion elegidos (no 5)
-- [ ] Contenido basado en punto de vista propio sobre el problema
-- [ ] Build in public: compartir proceso, numeros reales, lecciones
+### Decision
 
-## Fase 6: Co-founder (cuando aplique)
+- [ ] Si hay pagos y retention → seguir iterando
+- [ ] Si hay signups pero no pagos → ajustar pricing o producto, 1 semana mas
+- [ ] Si no hay interes → matar, siguiente idea
 
-- [ ] Tengo problema validado y conversaciones reales antes de buscar
-- [ ] Pitch claro: "tengo X validado, busco alguien que lleve GTM"
-- [ ] Coffee chat con candidatos (vision, valores, deal-breakers)
-- [ ] Mini-proyecto conjunto de 1-2 semanas antes de comprometerse
-- [ ] Trial period de 1-3 meses con equity con cliff de 1 anio
-- [ ] Pacto de socios firmado antes de que haya dinero
+## Si hay traccion: Crecer
 
-## Fase 7: Financiacion (cuando aplique)
+- [ ] Setup analytics (PostHog)
+- [ ] Identificar keywords de SEO para mi producto
+- [ ] Escribir 2-3 posts de blog optimizados para SEO
+- [ ] Publicar updates semanales en Twitter (build in public)
+- [ ] Iterar producto basado en feedback real de usuarios que pagan
+- [ ] Objetivo: $1k MRR
 
-- [ ] Metricas claras: MRR, usuarios, crecimiento, churn
-- [ ] Pitch deck de 10-12 slides
-- [ ] Se numeros de memoria: CAC, LTV, burn rate, runway
-- [ ] Lista de 20 inversores relevantes (angels / VCs)
-- [ ] Warm intros conseguidas (nunca cold email a VCs)
-- [ ] Instrumento elegido: SAFE / convertible note / equity round
+## Cuando considerar escalar (opcional)
 
-## Senales de STOP en cada fase
+- [ ] Revenue estable >$5k MRR
+- [ ] El mercado es grande y puedo crecer mas
+- [ ] Necesito ayuda en algo que no se hacer (ventas, marketing)
+- [ ] Buscar co-founder solo si el bottleneck no es producto
+- [ ] Considerar inversion solo si el mercado lo justifica y quiero ir rapido
 
-| Fase | Si pasa esto, para y reconsidera |
-|------|----------------------------------|
-| Discovery | Nadie se emociona al hablar del problema |
-| Validacion | Nadie dice que pagaria |
-| MVP | Los usuarios prueban 1 vez y no vuelven |
-| Clientes | Churn >10% mensual sin mejora |
-| Distribucion | CAC > 3x LTV despues de optimizar |
+## Senales de STOP
 
-## Anti-patrones (cosas que NO hacer)
+| Momento | Para si... |
+|---------|-----------|
+| Post-launch | 0 signups despues de PH + HN + Twitter |
+| Semana 2 | Nadie ha pagado y nadie pide features |
+| Mes 1 | Los usuarios prueban 1 vez y no vuelven |
+| Mes 3 | <$500 MRR sin tendencia de crecimiento |
 
-- [ ] ~~Construir el producto antes de hablar con nadie~~
-- [ ] ~~Crear redes sociales y contenido antes de tener producto~~
-- [ ] ~~Buscar co-founder antes de validar el problema~~
-- [ ] ~~Enviar encuestas online en vez de hablar con gente~~
-- [ ] ~~Prepararse 3 semanas para la primera call (la primera siempre es torpe)~~
-- [ ] ~~Pedir feedback con "te parece util?" en vez de "pagarias?"~~
-- [ ] ~~Saltar de discovery directo a landing page~~
+No es fracaso. Es informacion. Siguiente idea.
