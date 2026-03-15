@@ -32,7 +32,15 @@
 | **[Sentry](https://sentry.io)** | Error tracking | Free (5k events/mes) |
 | **[BetterUptime](https://betterstack.com)** | Uptime monitoring | Free (10 monitors) |
 
-### Marketing (todo gratis)
+### Gestion de proyecto
+
+| Herramienta | Para que | Precio |
+|-------------|----------|--------|
+| **GitHub Issues + Projects** | Tareas, bugs, kanban board | Free |
+
+No uses Notion, Jira, Linear ni nada mas. Cada producto tiene su repo, cada repo tiene sus issues. El Projects board de GitHub es un kanban gratis. Todo en el mismo sitio que tu codigo. Lo que hacen Levels, Marc Lou y Tony Dinh.
+
+### Marketing y presencia (todo gratis)
 
 | Herramienta | Para que | Precio |
 |-------------|----------|--------|
@@ -42,6 +50,10 @@
 | **[Logofa.st](https://logofa.st)** | Logo rapido | Free |
 | **[Termly](https://termly.io)** | Privacy policy, terms | Free |
 | **[Otter.ai](https://otter.ai)** | Transcribir calls (si hablas con usuarios) | Free (300 min/mes) |
+
+**Cuentas de Twitter/X**: usa dos cuentas separadas.
+- Cuenta indie (nombre completo): para build in public, lanzamientos, contenido de producto. Todo en ingles.
+- Cuenta personal: para tus intereses personales. No mezcles audiencias — confunde al algoritmo y a los seguidores.
 
 ### Comunicacion (cuando crezcas)
 
