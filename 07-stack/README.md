@@ -55,6 +55,18 @@ No uses Notion, Jira, Linear ni nada mas. Cada producto tiene su repo, cada repo
 - Cuenta indie (nombre completo): para build in public, lanzamientos, contenido de producto. Todo en ingles.
 - Cuenta personal: para tus intereses personales. No mezcles audiencias — confunde al algoritmo y a los seguidores.
 
+**Cuando crear la cuenta indie**: cuando empieces a construir tu primer producto. No antes. El algoritmo de X favorece cuentas nuevas que publican consistentemente las primeras semanas — si la creas y la dejas vacia, pierdes ese boost.
+
+```
+Viernes:         Crea la cuenta
+Sabado-domingo:  2-3 tweets del proceso de build (screenshots, decisiones, progreso)
+Lunes:           Tweet/thread del launch + link a Product Hunt
+Semana 1-2:      Numeros reales, feedback, iteraciones
+Despues:         3-5 tweets/semana sobre tu proceso
+```
+
+El primer tweet tiene que ser algo real, no "hey estoy aqui". Ejemplo: "Building [X] this weekend. The problem: [1 frase]. Let's see if anyone needs this."
+
 ### Comunicacion (cuando crezcas)
 
 | Herramienta | Para que | Cuando |
