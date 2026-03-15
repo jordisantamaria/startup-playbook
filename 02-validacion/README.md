@@ -52,6 +52,8 @@ Habla con **minimo 15 personas** de tu segmento objetivo.
 - No pueden recordar la ultima vez que lo tuvieron
 - No han intentado resolver nada (no les importa lo suficiente)
 
+> Ver [Outreach Framework](./outreach-framework.md) para el proceso completo de como conseguir y ejecutar estas entrevistas via LinkedIn DMs.
+
 ### Nivel 2: Validacion de la solucion (Semana 2-4)
 
 **Objetivo**: Confirmar que tu enfoque de solucion resuena.
