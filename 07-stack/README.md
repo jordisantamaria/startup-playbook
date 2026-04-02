@@ -51,6 +51,65 @@ No uses Notion, Jira, Linear ni nada mas. Cada producto tiene su repo, cada repo
 | **[Termly](https://termly.io)** | Privacy policy, terms | Free |
 | **[Otter.ai](https://otter.ai)** | Transcribir calls (si hablas con usuarios) | Free (300 min/mes) |
 
+### Growth con AI (cuando tengas producto + primeros usuarios)
+
+Herramientas validadas por datos reales de TrustMRR (marzo 2026). No las uses antes de tener producto — son aceleradores, no sustitutos de tener algo que la gente quiera.
+
+**SEO automatizado**
+
+| Herramienta | Que hace | Precio | Validacion |
+|-------------|----------|--------|------------|
+| **[SEOBot](https://seobot.ai)** | Agente AI que genera blog posts SEO-ready, keywords, mini apps | ~$49/mes | El propio SEOBot hace $80k MRR |
+| **[LocalRank.so](https://localrank.so)** | SEO local automatizado | ~$29/mes | $52k MRR — solo si tu producto tiene componente local |
+
+Cuando usarlo: cuando tengas al menos 10 usuarios de pago y quieras escalar trafico organico. El SEO tarda 2-3 meses, asi que cuanto antes empieces mejor — pero solo si ya validaste que la gente paga.
+
+**Social media y contenido**
+
+| Herramienta | Que hace | Precio | Validacion |
+|-------------|----------|--------|------------|
+| **[Postiz](https://postiz.com)** | Scheduler "agentico" — sugiere contenido y publica solo | Open source / hosted | $83k MRR |
+| **[Typefully](https://typefully.com)** | Escribir y programar threads de Twitter | Free / $12/mes | Alternativa mas simple a Postiz |
+| **[Virlo](https://virlo.com)** | Detecta trending topics para crear contenido relevante | ~$29/mes | $17k MRR |
+
+Cuando usarlo: cuando ya publiques 3-5 veces/semana manualmente y quieras automatizar. No automatices lo que no has hecho manualmente primero.
+
+**Video y UGC para ads (solo si haces paid)**
+
+| Herramienta | Que hace | Precio | Validacion |
+|-------------|----------|--------|------------|
+| **[Speel.co](https://speel.co)** | Genera videos UGC realistas para ads | ~$49/mes | $66k MRR |
+| **[Vid.AI](https://vid.ai)** | Convierte texto/idea en video publicable | ~$29/mes | $95k MRR |
+
+Cuando usarlo: solo cuando inviertas en ads (fase 06-Scale). Antes de eso, no necesitas video generado.
+
+**Analytics de ads**
+
+| Herramienta | Que hace | Precio | Validacion |
+|-------------|----------|--------|------------|
+| **[Cometly](https://cometly.com)** | Attribution de ads con AI — sabe que ad genero que venta | ~$99/mes | $230k MRR |
+
+Cuando usarlo: solo si gastas >$1k/mes en ads y necesitas saber que funciona. Antes de eso, Stripe dashboard + PostHog es suficiente.
+
+**Orden recomendado de adopcion:**
+
+```
+$0-1k MRR:    Nada. Twitter manual + SEO basico con Claude
+$1-5k MRR:    SEOBot (automatizar contenido) + Typefully (programar tweets)
+$5-10k MRR:   + Postiz o Virlo (escalar social) + analytics mejores
+$10k+ MRR:    + Ads + Speel/Vid.AI para creativos + Cometly para attribution
+```
+
+**Marketplace para vender tu startup (si decides exit):**
+
+| Plataforma | Para que | Fee |
+|------------|----------|-----|
+| **[TrustMRR](https://trustmrr.com)** | Marketplace con MRR verificado via Stripe API | % sobre venta |
+| **[Acquire.com](https://acquire.com)** | El mas grande para micro-SaaS | % sobre venta |
+| **[MicroAcquire](https://microacquire.com)** | Alternativa popular | Free para sellers |
+
+Multiplos tipicos: 1.5x-3x ARR (revenue anual) para micro-SaaS bootstrapped. Un producto con $5k MRR se vende por $90k-$180k.
+
 **Cuentas de Twitter/X**: usa dos cuentas separadas.
 - Cuenta indie (nombre completo): para build in public, lanzamientos, contenido de producto. Todo en ingles.
 - Cuenta personal: para tus intereses personales. No mezcles audiencias — confunde al algoritmo y a los seguidores.
@@ -81,9 +140,12 @@ El primer tweet tiene que ser algo real, no "hey estoy aqui". Ejemplo: "Building
 | Setup (dia 0) | $309 (Supastarter + dominio) |
 | Mes 1 | ~$120 (solo AI tools) |
 | Mes 2+ (con traccion) | ~$175/mes |
+| $1-5k MRR (growth) | ~$250/mes (+SEOBot, +Typefully) |
+| $5-10k MRR (escalar) | ~$350/mes (+Postiz/Virlo) |
+| $10k+ MRR (ads) | ~$550/mes (+ads tools, +Cometly) |
 | Cuando hay revenue | Stripe se lleva 2.9% + 30c por pago |
 
-Todo lo demas es free tier hasta que tengas revenue para pagarlo.
+Todo lo demas es free tier hasta que tengas revenue para pagarlo. Las herramientas de growth solo se añaden cuando el MRR las justifica — nunca antes.
 
 ## Diseño
 

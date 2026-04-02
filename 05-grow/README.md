@@ -31,6 +31,11 @@ La estrategia mas poderosa a medio-largo plazo. Pieter Levels genera la mayoria 
 - Ejemplo: si tu producto es un "invoice tracker", escribe "best invoice tracking tools 2026", "how to track freelance invoices"
 - Usa Claude para generar borradores, tu editas y adds tu voz
 
+**SEO con AI (cuando tengas $1k+ MRR)**:
+- [SEOBot](https://seobot.ai) automatiza blog posts SEO-ready — el propio producto hace $80k MRR
+- No sustituye tu voz. Genera borradores optimizados, tu editas y publicas
+- Combinado con SEO programatico es muy potente
+
 **SEO programatico (avanzado)**:
 - Genera paginas automaticamente desde tu base de datos
 - Ejemplo (Levels): Nomad List genera una pagina por cada ciudad. Miles de paginas indexadas
@@ -38,6 +43,8 @@ La estrategia mas poderosa a medio-largo plazo. Pieter Levels genera la mayoria 
 - Cada pagina es un punto de entrada desde Google
 
 **Timeline**: el SEO tarda 2-3 meses en dar resultados. Empieza ya pero no dependas de el al principio.
+
+> Ver [07-Stack — Growth con AI](../07-stack/) para todas las herramientas de growth automatizado y cuando usarlas.
 
 ### 3. Comunidades del nicho
 
